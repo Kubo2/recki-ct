@@ -26,7 +26,7 @@ Recki-CT is a PHP compiler toolkit **written in PHP itself**.
 
 A compiler toolkit is useful for [static analysis](http://en.wikipedia.org/wiki/Static_program_analysis) and creating high performance code.
 
-## FAQ (Frequently Asked Questions
+## FAQ — Frequently Asked Questions
 
 1. **Why Is PHP Code Not Optimized Already**
 
